@@ -6,6 +6,7 @@ http://nodered.org
 [![Coverage Status](https://coveralls.io/repos/node-red/node-red/badge.svg?branch=master)](https://coveralls.io/r/node-red/node-red?branch=master)
 
 Low-code programming for event-driven applications.
+This branch supports using TypeScript in the core function node, which includes formatting, refactoring, and more.
 
 ![Node-RED: Low-code programming for event-driven applications](http://nodered.org/images/node-red-screenshot.png)
 

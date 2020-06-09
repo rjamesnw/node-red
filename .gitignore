@@ -22,3 +22,15 @@ packages/node_modules/@node-red/editor-client/public
 !test/**/node_modules
 docs
 !packages/node_modules/**/docs
+packages/node_modules/@node-red/editor-client/**/public/src
+**/monaco-editor/**/*.js
+**/monaco-editor/**/*.js.map
+**/monaco-editor/**/*.css
+**/monaco-editor/**/.*
+**/typescript/**/*.js
+**/typescript/**/*.js.map
+**/typescript/**/*.css
+**/typescript/**/lib
+**/typescript/**/bin
+**/typescript/**/.*
+!packages/node_modules/@node-red/editor-client/src/**/*.d.ts
